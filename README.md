@@ -1,4 +1,3 @@
-Sure! Here’s a version of the code organized into a structured format with clear comments and ready for you to copy-paste directly into a GitHub repository.
 
 ### **Step 1: Create a New Repository on GitHub**
 
